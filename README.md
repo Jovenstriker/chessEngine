@@ -1,7 +1,7 @@
 # chessEngine
 Building a chess convolutional neural network (CNN) to predict evaluation of a chess position.
 
-Data taken from lichess which elo > 2000.
+Data taken from lichess which elo > 2000 and random board states.
 
 
 ## chessBoardGenerator.ipynb
